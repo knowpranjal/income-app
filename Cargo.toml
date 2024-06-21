@@ -16,5 +16,5 @@ slint-build = "1.0"
 
 [package.metadata.bundle]
 name = "Income Divider"
-identifier = "io.github.rodgtr1.profit-first-income-calculator-desktop"
+identifier = "io.github.knowpranjal.income-app"
 description = "Diving up income into tax, owner, profit, and opex amounts."
